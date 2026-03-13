@@ -2,8 +2,8 @@
 
 <h1>Microsoft Entra ID</h1>
 <h2>Overview</h2>
-This project demonstrates fundamental Identity and Access Management (IAM) concepts using Microsoft Entra ID. Identity and Access Management is a core cybersecurity discipline focused on ensuring that the right individuals have access to the right resources at the right time, while preventing unauthorized access. 
-
+This project demonstrates fundamental Identity and Access Management (IAM) concepts using Microsoft Entra ID. Identity and Access Management is a core cybersecurity discipline focused on ensuring that the right individuals have access to the right resources at the right time, while preventing unauthorized access.<br>
+<br>
 Organizations rely on IAM systems to manage employee identities, control permissions, and enforce security policies across cloud services, applications, and internal infrastructures.  Microsoft Entra ID is a cloud-based identity service that allows organizations to centrally manage user accounts, authentication, and authorization.<br>
 <br>
 <img width="957" height="543" alt="Screenshot 2026-03-13 at 1 58 56 PM" src="https://github.com/user-attachments/assets/e788eaf1-92cb-40f2-9dca-5c23344531ef" />
@@ -15,8 +15,8 @@ The objective was to simulate a small organization's identity environment by cre
 <h2>Technologies Used</h2>
 - Microsoft Entra ID<br>
 - Microsoft Azure Portal<br>
-- Administrative access to the Entra ID portal
-
+- Administrative access to the Entra ID portal<br>
+<br>
 The Entra ID tenant acts as the central identity directory where user accounts, groups, and access permissions are stored and managed.
 
 <h2>IAM Concepts Demonstrated</h2>
@@ -36,8 +36,8 @@ The first step in building the enterprise environment was to create 40 User acco
 8 Users - IT
 10 Users - Engineering
 6 Users - Sales
-5 Users - Contractors
-
+5 Users - Contractors<br>
+<br>
 Each User account represents an individual employee that would normally exist within a company's directory system.
 
 
