@@ -29,7 +29,6 @@ Step 1 - Create Users<br>
 
 
 
-
 The first step in building the enterprise environment was to create 40 User accounts across multiple departments that represent employees within a fictional organization.<br>
 <br>Department Structure:<br>
 5 Users - Human Resources
