@@ -15,7 +15,12 @@ This project demonstrates core Identity and Access Management (IAM) concepts usi
 
 <h2>IAM Concepts Demonstrated</h2>
 <img width="957" height="543" alt="Screenshot 2026-03-13 at 2 00 40 PM" src="https://github.com/user-attachments/assets/82115141-2806-4f0d-8a6c-40c681eca31b" />
-
+<br>
+User Provisioning<br>
+Group-Based Access Controls<br>
+Role-Based Access Controls (RBAC)<br>
+Joiner-Mover-Leaver (JML) Lifecycle<br>
+Single Sign-On Integration<br>
 <!--
  ```diff
 - text in red
