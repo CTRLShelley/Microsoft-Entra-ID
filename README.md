@@ -5,7 +5,7 @@
 <img width="957" height="543" alt="Screenshot 2026-03-13 at 1 58 56 PM" src="https://github.com/user-attachments/assets/e788eaf1-92cb-40f2-9dca-5c23344531ef" />
 
 <h2>Overview</h2>
-This project demonstrates core Identity and Access Management (IAM) concepts using Microsoft Entra ID. The objective was to simulate a small organization's identity environment by provisioning users, creating departmental security groups, implementing role-based access control (RBAC), and applying authentication and access policies.  This environment models how organizations manage identities, control access to resources, and enforce security policies in a cloud-based identity platform.
+This project demonstrates core Identity and Access Management (IAM) concepts using Microsoft Entra ID. The objective was to simulate a small organization's identity environment by provisioning users, creating departmental security groups, implementing role-based access control (RBAC), demonstrating the joiner-mover-leaver (JML) lifecycle, and single sign-on (SSO) integration.  This environment models how organizations manage identities, control access to resources, and enforce security policies in a cloud-based identity platform.
 
 <h2>Technologies Used</h2>
 - Microsoft Entra ID<br>
