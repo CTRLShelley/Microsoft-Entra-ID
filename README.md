@@ -35,7 +35,7 @@ User provisioning ensures that:<br>
 - Access to systems can be assigned appropriately<br>
 - Identity information is stored securely in a central directory
 <br>
-Forty user accourns were created across multiple departments that represent employees within a fictional organization.<br>
+Forty user accounts were created across multiple departments that represent employees within a fictional organization.<br>
 <br>Department Structure:<br>
 - 5 Users - Human Resources<br>
 - 6 Users - Accounting<br>
@@ -75,21 +75,41 @@ Once added, the users can:
 <br>
 In this scenario, <i>Kevin Turner</i> is the user and will be added to the tenant.<br>
 <br>
-<br>The admin completed the required fields below for Kevin Turner:<br>
+The admin completed the required fields for Kevin Turner:<br>
 - User principle name:  Kevin.Turner<br>
 - Mail nickname: Kevin.Turner<br>
 - Display name: Kevin Turner<br>
 - Password: Auto-generated password<br>
-
-Click: Review + create<br>
+<br>
 <img width="571" height="459" alt="Screenshot 2026-03-17 at 2 11 13 PM" src="https://github.com/user-attachments/assets/4ff53b94-a10f-46c5-b73a-d225c0b5de02" />
 
 <img width="623" height="332" alt="Screenshot 2026-03-17 at 2 11 31 PM" src="https://github.com/user-attachments/assets/b5886d95-8736-45f9-843b-e8fd70f23f47" />
 Kevin Turner has been sucessfully created.<br>
 
-
+<h2>Group-Based Access Controls</h2>
+Step 3: Create Groups
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 47 PM" src="https://github.com/user-attachments/assets/34d18a7a-4350-43f9-a036-fa1ed8e70cd2" />
+<br>
+Once user accounts are created in the tenant, the next step is to create security groups.  Groups allow administrators to organize users into logical units that reflect the structure of the organization.  Each group is given a name, representing its department.  This allows admins to manage users at the group level instead of the indiivdual user level.<br>
 
+For example:<br>
+Engineering group --> access to development tools<br>
+Accounting group --> access to financial systems<br>
+
+Benefits include:<br>
+- Simplified administration workload<br>
+- Reduced configuration errors<br>
+- Faster onboarding of new employees<br>
+- Consistent security policies<br>
+
+Groups were created within the Entra ID admin center by navigating to:<br>
+Groups --> New Group --> Security Group<br>
+
+The admin completed the required fields to create the <i>HR</i> group.<br>
+Group type: Security<br>
+Group name: HR<br>
+Group description: Human Resource employees<br>
+Membership type: Assigned<br>
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 52 PM" src="https://github.com/user-attachments/assets/52947f5a-f3de-411a-91a5-d99f82a6096a" />
 
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 56 PM" src="https://github.com/user-attachments/assets/7176e93c-31f8-44a1-8579-a11c53913368" />
@@ -115,7 +135,6 @@ Kevin Turner has been sucessfully created.<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 13 PM" src="https://github.com/user-attachments/assets/cc582dba-a38d-4af3-9a08-be4063a7f378" />
 
 
-<h2>Group-Based Access Controls</h2>
 
 
 
