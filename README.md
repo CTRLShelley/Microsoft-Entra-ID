@@ -111,12 +111,18 @@ Group name: HR<br>
 Group description: Human Resource employees<br>
 Membership type: Assigned<br>
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 52 PM" src="https://github.com/user-attachments/assets/52947f5a-f3de-411a-91a5-d99f82a6096a" />
-
+<br>
+Kevin Turner will be added the Accounting Group.
+<br>
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 56 PM" src="https://github.com/user-attachments/assets/7176e93c-31f8-44a1-8579-a11c53913368" />
-
+<br>
+The admin will navigate to the profile for Kevin Turner > Edit > Add to Group
+<br>
 <img width="735" height="315" alt="Screenshot 2026-03-17 at 2 12 09 PM" src="https://github.com/user-attachments/assets/b06a1337-0b83-419f-bca0-f059a23cf0f0" />
-
+<br> Admin adds Kevin Turner to the Accounting group.<br>
 <img width="591" height="412" alt="Screenshot 2026-03-17 at 2 12 25 PM" src="https://github.com/user-attachments/assets/5f0aa9a8-cb23-4338-869a-e5c922138f3a" />
+<br>
+Kevin Turner has been successfully added to the group.<br>
 
 <img width="670" height="281" alt="Screenshot 2026-03-17 at 2 12 34 PM" src="https://github.com/user-attachments/assets/f84c69c7-a31c-4734-ade6-1124a36ede2d" />
 
