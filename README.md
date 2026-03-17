@@ -70,8 +70,6 @@ Once added, the users can:
 <img width="858" height="483" alt="Screenshot 2026-03-17 at 2 10 34 PM" src="https://github.com/user-attachments/assets/a0c49e91-b957-4527-9fcf-440bdb409670" />
 
 <img width="762" height="268" alt="Screenshot 2026-03-17 at 2 10 46 PM" src="https://github.com/user-attachments/assets/d2aab789-02e3-4955-98a4-d88611c53d72" />
-
-<img width="799" height="482" alt="Screenshot 2026-03-17 at 2 10 57 PM" src="https://github.com/user-attachments/assets/54b49bad-4e37-49ab-91ba-6413670b07b3" />
 <br>
 In this scenario, <i>Kevin Turner</i> is the user and will be added to the tenant.<br>
 <br>
@@ -80,6 +78,8 @@ The admin completed the required fields for Kevin Turner:<br>
 - Mail nickname: Kevin.Turner<br>
 - Display name: Kevin Turner<br>
 - Password: Auto-generated password<br>
+<br>
+<img width="799" height="482" alt="Screenshot 2026-03-17 at 2 10 57 PM" src="https://github.com/user-attachments/assets/54b49bad-4e37-49ab-91ba-6413670b07b3" />
 <br>
 <img width="571" height="459" alt="Screenshot 2026-03-17 at 2 11 13 PM" src="https://github.com/user-attachments/assets/4ff53b94-a10f-46c5-b73a-d225c0b5de02" />
 
