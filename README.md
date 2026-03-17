@@ -90,13 +90,12 @@ Kevin Turner has been sucessfully created.<br>
 Step 3: Create Groups
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 47 PM" src="https://github.com/user-attachments/assets/34d18a7a-4350-43f9-a036-fa1ed8e70cd2" />
 <br>
-Once user accounts are created in the tenant, the next step is to create security groups.  Groups allow administrators to organize users into logical units that reflect the structure of the organization.  Each group is given a name, representing its department.  This allows admins to manage users at the group level instead of the indiivdual user level.
-<br>
-For example:<br>
+Once user accounts are created in the tenant, the next step is to create security groups.  Groups allow administrators to organize users into logical units that reflect the structure of the organization.  Each group is given a name, representing its department.  This allows admins to manage users at the group level instead of the indiivdual user level.<br>
+<br>For example:<br>
 Engineering group --> access to development tools<br>
 Accounting group --> access to financial systems<br>
 
-Benefits include:<br>
+<br>Benefits include:<br>
 - Simplified administration workload<br>
 - Reduced configuration errors<br>
 - Faster onboarding of new employees<br>
@@ -132,11 +131,11 @@ Kevin Turner has been successfully added to the group.<br>
 <br>
 Role-Based Access Control (RBAC) assigns permissions based on job roles rather than individual identities.  It ensures that employees only have the permissions required to perform their job responsibilities.  Each role contains a predefined set of permissions and do not rely on system-wide security settings.
 <br>
-Examples of roles include:<br>
+<br>Examples of roles include:<br>
 - Global Administrator<br>
 - User Administrator<br>
 - Application Administrator<br>
-
+<br>
 A User Administrator may be allowed to do the following while the Application Administrator can not:<br>
 - Create users<br>
 - Reset passwords<br>
@@ -150,18 +149,17 @@ The admin navigates to the profile for Kevin Turner --> Assigned Roles --> searc
 <br>
 <br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 12 57 PM" src="https://github.com/user-attachments/assets/2c5282f7-a346-4020-ac9a-84e48afd329b" />
-The admin needs to remove a role assignment from Nina Kapoor.
 <br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 02 PM" src="https://github.com/user-attachments/assets/3d740711-ad56-493c-a6b0-5ba6041aa063" />
 <br>
-The admin navigates to the profile for Nina Kapoor --> Assigned Roles.<br>
-You can see that she is assigned a <i>License Administrator</i>.<br>
-
-The Admin clicks Remove assignments to remove the License Administrator from Nina Kapoor's user profile.<br>
+The admin needs to remove the <i>License Administrator</i> role assignment from the profile of Nina Kapoor.<br>
+<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 06 PM" src="https://github.com/user-attachments/assets/776effed-c829-4412-b4f7-ba506376d38d" />
-
+<br>
+The admin navigates to the profile for Nina Kapoor --> Assigned Roles.<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 09 PM" src="https://github.com/user-attachments/assets/06c973a8-f81e-4ca3-97e9-9734b32d25b7" />
-
+<br>
+The Admin clicks Remove assignments to remove the License Administrator from Nina Kapoor's user profile.<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 13 PM" src="https://github.com/user-attachments/assets/cc582dba-a38d-4af3-9a08-be4063a7f378" />
 
 
