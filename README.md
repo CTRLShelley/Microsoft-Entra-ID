@@ -27,7 +27,9 @@ The Entra ID tenant acts as the central identity directory where user accounts, 
 Step 1 - Create Users<br>
 <br>
 <img width="763" height="427" alt="Screenshot 2026-03-17 at 2 09 05 PM" src="https://github.com/user-attachments/assets/b1fbed3f-ff77-41d7-aaef-4e1943e4c2ba" />
-The first step demonstrates user provisioning, which is the process of creating and managing digital identities within an organization.
+<br>
+The first step demonstrates user provisioning, which is the process of creating and managing digital identities within an organization.<br>
+<br>
 <br>
 User provisioning ensures that:<br>
 - New employees receive accounts when they join the company<br>
@@ -51,16 +53,29 @@ Each User account represents an individual employee that would normally exist wi
 Step 2 - Add Users to Tenant<br>
 <br>
 <img width="763" height="427" alt="Screenshot 2026-03-17 at 2 10 17 PM" src="https://github.com/user-attachments/assets/906af539-278e-4bb9-b3dd-ce2c58fbc49f" />
-A tenant is a dedicated instance of Microsoft Entra ID that represents a single organization.  It acts as the central identity container where all users, groups, applications, and security policies are stored.
+A tenant is a dedicated instance of Microsoft Entra ID that represents a single organization.  It acts as the central identity container where all users, groups, applications, and security policies are stored.  Instead of creating accounts individually across multiple systems, administrators manage all identities from one secure platform.
 <br>
+This centralization improves:
+- Visibilitiy
+- Security monitoring
+- Access control
+- Identity governance
+
 When users are added to a tenant, they become recognized identities within that organizations directory.<br>
+
+Users were added to the tenant through the Entra ID portal by creating them directly within the tenant directory.
+
+Once added, the users could:
+- Sign in to organizational systems
+- Be assigned to groups
+- Receive permissions to applications and services
 <br>
 <img width="858" height="483" alt="Screenshot 2026-03-17 at 2 10 34 PM" src="https://github.com/user-attachments/assets/a0c49e91-b957-4527-9fcf-440bdb409670" />
 
 <img width="762" height="268" alt="Screenshot 2026-03-17 at 2 10 46 PM" src="https://github.com/user-attachments/assets/d2aab789-02e3-4955-98a4-d88611c53d72" />
 
 <img width="799" height="482" alt="Screenshot 2026-03-17 at 2 10 57 PM" src="https://github.com/user-attachments/assets/54b49bad-4e37-49ab-91ba-6413670b07b3" />
-
+<br>
 
 <img width="571" height="459" alt="Screenshot 2026-03-17 at 2 11 13 PM" src="https://github.com/user-attachments/assets/4ff53b94-a10f-46c5-b73a-d225c0b5de02" />
 
