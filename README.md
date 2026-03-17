@@ -90,8 +90,8 @@ Kevin Turner has been sucessfully created.<br>
 Step 3: Create Groups
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 47 PM" src="https://github.com/user-attachments/assets/34d18a7a-4350-43f9-a036-fa1ed8e70cd2" />
 <br>
-Once user accounts are created in the tenant, the next step is to create security groups.  Groups allow administrators to organize users into logical units that reflect the structure of the organization.  Each group is given a name, representing its department.  This allows admins to manage users at the group level instead of the indiivdual user level.<br>
-
+Once user accounts are created in the tenant, the next step is to create security groups.  Groups allow administrators to organize users into logical units that reflect the structure of the organization.  Each group is given a name, representing its department.  This allows admins to manage users at the group level instead of the indiivdual user level.
+<br>
 For example:<br>
 Engineering group --> access to development tools<br>
 Accounting group --> access to financial systems<br>
