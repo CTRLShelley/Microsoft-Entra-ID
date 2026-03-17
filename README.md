@@ -30,7 +30,6 @@ Step 1 - Create Users<br>
 <br>
 The first step demonstrates user provisioning, which is the process of creating and managing digital identities within an organization.<br>
 <br>
-<br>
 User provisioning ensures that:<br>
 - New employees receive accounts when they join the company<br>
 - Access to systems can be assigned appropriately<br>
@@ -53,19 +52,17 @@ Each User account represents an individual employee that would normally exist wi
 Step 2 - Add Users to Tenant<br>
 <br>
 <img width="763" height="427" alt="Screenshot 2026-03-17 at 2 10 17 PM" src="https://github.com/user-attachments/assets/906af539-278e-4bb9-b3dd-ce2c58fbc49f" />
-A tenant is a dedicated instance of Microsoft Entra ID that represents a single organization.  It acts as the central identity container where all users, groups, applications, and security policies are stored.  Instead of creating accounts individually across multiple systems, administrators manage all identities from one secure platform.
+A tenant is a dedicated instance of Microsoft Entra ID that represents a single organization.  It acts as the central identity container where all users, groups, applications, and security policies are stored.  Instead of creating accounts individually across multiple systems, administrators manage all identities from one secure platform.<br>
+<br>This centralization improves:<br>
+- Visibilitiy<br>
+- Security monitoring<br>
+- Access control<br>
+- Identity governance<br>
 <br>
-This centralization improves:
-- Visibilitiy
-- Security monitoring
-- Access control
-- Identity governance
-
-When users are added to a tenant, they become recognized identities within that organizations directory.<br>
 
 Users were added to the tenant through the Entra ID portal by creating them directly within the tenant directory.
 
-Once added, the users could:
+Once added, the users can:
 - Sign in to organizational systems
 - Be assigned to groups
 - Receive permissions to applications and services
@@ -76,10 +73,20 @@ Once added, the users could:
 
 <img width="799" height="482" alt="Screenshot 2026-03-17 at 2 10 57 PM" src="https://github.com/user-attachments/assets/54b49bad-4e37-49ab-91ba-6413670b07b3" />
 <br>
+In this scenario, <i>Kevin Turner</i> is the user and will be added to the tenant.<br>
+<br>
+<br>The admin completed the required fields below for Kevin Turner:<br>
+- User principle name:  Kevin.Turner<br>
+- Mail nickname: Kevin.Turner<br>
+- Display name: Kevin Turner<br>
+- Password: Auto-generated password<br>
 
+Click: Review + create<br>
 <img width="571" height="459" alt="Screenshot 2026-03-17 at 2 11 13 PM" src="https://github.com/user-attachments/assets/4ff53b94-a10f-46c5-b73a-d225c0b5de02" />
 
 <img width="623" height="332" alt="Screenshot 2026-03-17 at 2 11 31 PM" src="https://github.com/user-attachments/assets/b5886d95-8736-45f9-843b-e8fd70f23f47" />
+Kevin Turner has been sucessfully created.<br>
+
 
 <img width="854" height="480" alt="Screenshot 2026-03-17 at 2 11 47 PM" src="https://github.com/user-attachments/assets/34d18a7a-4350-43f9-a036-fa1ed8e70cd2" />
 
