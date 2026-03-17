@@ -26,9 +26,15 @@ The Entra ID tenant acts as the central identity directory where user accounts, 
 <h2>User Provisioning</h2>
 Step 1 - Create Users<br>
 <br>
-<img width="763" height="427" alt="Screenshot 2026-03-17 at 2 09 05 PM" src="https://github.com/user-attachments/assets/b1fbed3f-ff77-41d7-aaef-4e1943e4c2ba" />
+The first step demonstrates user provisioning, which is the process of creating and managing digital identities within an organization. <br>
+User provisioning ensures that:<br>
+- New employees receive accounts when they join the company<br>
+- Access to systems can be assigned appropriately<br>
+- Identity information is stored securely in a central directory<br>
 
-The first step in building the enterprise environment is to create 40 User accounts across multiple departments that represent employees within a fictional organization.<br>
+<img width="763" height="427" alt="Screenshot 2026-03-17 at 2 09 05 PM" src="https://github.com/user-attachments/assets/b1fbed3f-ff77-41d7-aaef-4e1943e4c2ba" />
+<br>
+Forty user accourns were created across multiple departments that represent employees within a fictional organization.<br>
 <br>Department Structure:<br>
 - 5 Users - Human Resources<br>
 - 6 Users - Accounting<br>
@@ -40,10 +46,15 @@ The first step in building the enterprise environment is to create 40 User accou
 Each User account represents an individual employee that would normally exist within a company's directory system.
 <br>
 <img width="597" height="584" alt="Screenshot 2026-03-13 at 6 15 12 PM" src="https://github.com/user-attachments/assets/95f93259-6127-4566-bfe9-02eb9086789f" />
-
+<br>
+<br>
 Step 2 - Add Users to Tenant<br>
+<br>
+A tenant is a dedicated instance of Microsoft Entra ID that represents a single organization.  It acts as the central identity container where all users, groups, applications, and security policies are stored.
+<br>
+When users are added to a tenant, they become recognized identities within that organizations directory.<br>
 <img width="763" height="427" alt="Screenshot 2026-03-17 at 2 10 17 PM" src="https://github.com/user-attachments/assets/906af539-278e-4bb9-b3dd-ce2c58fbc49f" />
-
+<br>
 <img width="858" height="483" alt="Screenshot 2026-03-17 at 2 10 34 PM" src="https://github.com/user-attachments/assets/a0c49e91-b957-4527-9fcf-440bdb409670" />
 
 <img width="762" height="268" alt="Screenshot 2026-03-17 at 2 10 46 PM" src="https://github.com/user-attachments/assets/d2aab789-02e3-4955-98a4-d88611c53d72" />
