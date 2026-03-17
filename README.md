@@ -125,15 +125,39 @@ The admin will navigate to the profile for Kevin Turner > Edit > Add to Group
 Kevin Turner has been successfully added to the group.<br>
 
 <img width="670" height="281" alt="Screenshot 2026-03-17 at 2 12 34 PM" src="https://github.com/user-attachments/assets/f84c69c7-a31c-4734-ade6-1124a36ede2d" />
-
+<br>
+<br>
+<h2>Role-Based Access Controls (RBAC)</h2>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 12 49 PM" src="https://github.com/user-attachments/assets/9054f5a8-6466-49a2-9f54-e53c00ed4b16" />
+<br>
+Role-Based Access Control (RBAC) assigns permissions based on job roles rather than individual identities.  It ensures that employees only have the permissions required to perform their job responsibilities.  Each role contains a predefined set of permissions and do not rely on system-wide security settings.
+<br>
+Examples of roles include:<br>
+- Global Administrator<br>
+- User Administrator<br>
+- Application Administrator<br>
 
+A User Administrator may be allowed to do the following while the Application Administrator can not:<br>
+- Create users<br>
+- Reset passwords<br>
+- Manage user accounts<br>
+<br>
+Kevin Turner will be assigned to the <i>Insights Analyst</i> role.
+<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 12 53 PM" src="https://github.com/user-attachments/assets/ebea8a3c-c31c-4a90-8c85-2e9cf117a33f" />
-
+<br>
+The admin navigates to the profile for Kevin Turner --> Assigned Roles --> search for Insight Analyst --> Add
+<br>
+<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 12 57 PM" src="https://github.com/user-attachments/assets/2c5282f7-a346-4020-ac9a-84e48afd329b" />
-
+The admin needs to remove a role assignment from Nina Kapoor.
+<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 02 PM" src="https://github.com/user-attachments/assets/3d740711-ad56-493c-a6b0-5ba6041aa063" />
+<br>
+The admin navigates to the profile for Nina Kapoor --> Assigned Roles.<br>
+You can see that she is assigned a <i>License Administrator</i>.<br>
 
+The Admin clicks Remove assignments to remove the License Administrator from Nina Kapoor's user profile.<br>
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 06 PM" src="https://github.com/user-attachments/assets/776effed-c829-4412-b4f7-ba506376d38d" />
 
 <img width="851" height="484" alt="Screenshot 2026-03-17 at 2 13 09 PM" src="https://github.com/user-attachments/assets/06c973a8-f81e-4ca3-97e9-9734b32d25b7" />
@@ -143,9 +167,6 @@ Kevin Turner has been successfully added to the group.<br>
 
 
 
-
-
-<h2>Role-Based Access Controls (RBAC)</h2>
 
 
 
